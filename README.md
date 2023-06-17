@@ -14,5 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adiw3208&label=People%20Who%20Visit%20My%20Github&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-![hehehee](https://cdn.discordapp.com/attachments/1074669703307460648/1074671859087462400/wallpaperflare.com_wallpaper.jpg)
+
 
