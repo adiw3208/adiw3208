@@ -1,4 +1,4 @@
-![image](https://github.com/adiw3208/adiw3208/assets/136908733/252b9e23-9570-46fe-87a8-97bde10bfa2f)# 💫 About Me: 
+# 💫 About Me: 
 🔭 I am still a student<br>🌱 I’m currently learning ReactJS, ExpressJS, NextJS and FireBase<br>💬 I'm a fun person to talk to, Mybe :p<br>⚡ Fun fact : Im Hard Working
 
 
