@@ -1,4 +1,5 @@
-# 💫 About Me: ---
+# 💫 About Me: 
+---
 🔭 I am still a student<br>🌱 I’m currently learning ReactJS, ExpressJS, NextJS and FireBase<br>💬 I'm a fun person to talk to, Mybe :p<br>⚡ Fun fact : Im Hard Working
 
 
