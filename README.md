@@ -1,8 +1,10 @@
 <h1 align="center" >Welcome To My GitHub</h1>
+<br>
 <p align="center">Greetings! I am ADI WAHYUDI, a FullStack Developer who is passionate about creating innovative and efficient solutions. I love turning ideas into reality through code, and I'm always eager to explore new technologies. When I'm not coding, you might find me exploring the latest tech trends, enjoying a good book, or seeking adventure in the great outdoors.</p>
-
+<br><br>
 
 <h1 align="center">Tech Stack</h1>
+<br>
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038655564370030/icons8-nextjs-64.png?ex=6569c706&is=65575206&hm=f80c239bf38f26980265c13e8c0607bc94eb4b8ea3a99ed4f293b63fa2ac2f7a&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038701882048542/icons8-photoshop-64.png?ex=6569c711&is=65575211&hm=1e214a7af196aa6d095396050f3a20b7728535a1b596057ff2bfed32df08f5b3&"/>
@@ -19,21 +21,28 @@
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038872825122888/icons8-laravel-64.png?ex=6569c73a&is=6557523a&hm=fbc4b5c15c0b38eeb0fdda36cce3f94bbe3e8a3ff55e72d19c5840082861f597&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038885030535208/icons8-mongo-db-64.png?ex=6569c73d&is=6557523d&hm=77dfa15f0c1df27836cb9eef017d42e0e23e977e9f063441202ac6dba0c13ac4&"/>
 </div>
+<br><br>
 
+<div  align="center">
+<h1>GitHub Status</h1>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiw3208&theme=midnight-purple&hide_border=true"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<br>
+</div>
+<br><br>
 
-<h1 align="center" >Come Connect With Me</h1>
 <div align="center">
+<h1>Come Connect With Me</h1>
+<br>
 <a  href="https://discord.gg/wFybafrdzp"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175013379157544980/discord.png?ex=6569af7c&is=65573a7c&hm=c32397cb97d1cf6bc5943bae5cbcbd95570a013bd912d6225b756c91ea831a49&"/></a>
 <a  href="https://facebook.com/stunt3208"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014193712341052/facebook.png?ex=6569b03e&is=65573b3e&hm=b2b9c6fac4ae1210c6eb9235df59456a5b14cb3eed80590a00d77d1ff1685c68&"/></a>
 <a  href="https://instagram.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014851194662912/instagram.png?ex=6569b0db&is=65573bdb&hm=4e8a6d72d62eb9a8854b07ea1aced9e1213d5160feb8f150a7646f9c94289223&"/></a>
 <a  href="https://linkedin.com/in/adiwhydi"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015105499500574/linkedin.png?ex=6569b117&is=65573c17&hm=90999988da2540a84e79e2164c613169729618411a5c8c699f996a6a14ebf6e8&"/></a>
 <a  href="https://tiktok.com/@stnt3208"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015306578624552/tiktok.png?ex=6569b147&is=65573c47&hm=310b945a915cd89682777e07677b1e5716f20f51264fc23cb65e66e77b277a1a&"/></a>
 <a  href="https://twitter.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175025124169240677/twitter.png?ex=6569ba6c&is=6557456c&hm=3b8b86589faebdfbaf6603c6aafb95eb35b561089362322b7730fd4d8c929435&"/></a>
+
 </div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=adiw3208&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
