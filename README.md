@@ -1,6 +1,26 @@
 <h1 align="center" >Welcome To My GitHub</h1>
 <p align="center">Greetings! I am ADI WAHYUDI, a FullStack Developer who is passionate about creating innovative and efficient solutions. I love turning ideas into reality through code, and I'm always eager to explore new technologies. When I'm not coding, you might find me exploring the latest tech trends, enjoying a good book, or seeking adventure in the great outdoors.</p>
 
+
+<h1 align="center">Tech Stack</h1>
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038655564370030/icons8-nextjs-64.png?ex=6569c706&is=65575206&hm=f80c239bf38f26980265c13e8c0607bc94eb4b8ea3a99ed4f293b63fa2ac2f7a&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038701882048542/icons8-photoshop-64.png?ex=6569c711&is=65575211&hm=1e214a7af196aa6d095396050f3a20b7728535a1b596057ff2bfed32df08f5b3&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038712091005020/icons8-figma-64.png?ex=6569c714&is=65575214&hm=d56d7932e77bba2ac3968e229b6a9130895c009f165a037ce3601a2302ff18e3&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038740427706408/icons8-react-native-64.png?ex=6569c71a&is=6557521a&hm=5cb64794c19d05580765e54202201c9c8ff2d6b617756d7a6221ad3f47f96b58&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038752113041408/icons8-javascript-64.png?ex=6569c71d&is=6557521d&hm=34cc420ffa0c84647e70eea1422c7d61821437ae44ce4caa7a000e551167e248&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038771654316082/icons8-nodejs-64.png?ex=6569c722&is=65575222&hm=181f01b8ba717f6aca5120526c7560430474f11cb795bbc100907b5ed038edac&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038796761419806/icons8-tailwind-css-64.png?ex=6569c728&is=65575228&hm=edf21d75686dd72a3c09d12fdd5ef1fd784e75e8b55853dd0178ad7d124c49d7&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038807863742555/icons8-bootstrap-64.png?ex=6569c72a&is=6557522a&hm=d21ed9df2b45b8ad5518e85461ff8a98bbdab62ee429d1793c49d9eae5ae0b4e&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038817095389264/icons8-firebase-64.png?ex=6569c72d&is=6557522d&hm=26ced01dbb8d46eedb1ae9db2bfc0bdc9d8cead7dc808b835f5218fd66bf6d93&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038840055025756/icons8-postgresql-64.png?ex=6569c732&is=65575232&hm=29f30281bc3643cd5aaf00e045a3e1b8a560c2b5704bbb5c6a01b64c089c8fb0&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038850654019604/icons8-my-sql-64.png?ex=6569c735&is=65575235&hm=eaf44704e2d4734a75925e59e4280e08f919212340c03c563fcdcc8cc20ccb07&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038863975133214/icons8-php-64.png?ex=6569c738&is=65575238&hm=7ae186f5b63015cedcbed1fbc4076f377da0a84ff4762d4a04d1360fb296fc92&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038872825122888/icons8-laravel-64.png?ex=6569c73a&is=6557523a&hm=fbc4b5c15c0b38eeb0fdda36cce3f94bbe3e8a3ff55e72d19c5840082861f597&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038885030535208/icons8-mongo-db-64.png?ex=6569c73d&is=6557523d&hm=77dfa15f0c1df27836cb9eef017d42e0e23e977e9f063441202ac6dba0c13ac4&"/>
+</div>
+
+
 <h1 align="center" >Come Connect With Me</h1>
 <div align="center">
 <a  href="https://discord.gg/wFybafrdzp"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175013379157544980/discord.png?ex=6569af7c&is=65573a7c&hm=c32397cb97d1cf6bc5943bae5cbcbd95570a013bd912d6225b756c91ea831a49&"/></a>
@@ -11,8 +31,7 @@
 <a  href="https://twitter.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175025124169240677/twitter.png?ex=6569ba6c&is=6557456c&hm=3b8b86589faebdfbaf6603c6aafb95eb35b561089362322b7730fd4d8c929435&"/></a>
 </div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adiw3208&theme=midnight-purple&hide_border=true)
