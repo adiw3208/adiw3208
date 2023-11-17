@@ -1,5 +1,4 @@
-<h1 align="center" style="font-weight:900;">Welcome To My GitHub</h1>
-<p></p>
+<h1 align="center" >Welcome To My GitHub</h1>
 
 ## 🌐 Socials:
 [![Discord](https://cdn.discordapp.com/attachments/1074669703307460648/1175013379157544980/discord.png?ex=6569af7c&is=65573a7c&hm=c32397cb97d1cf6bc5943bae5cbcbd95570a013bd912d6225b756c91ea831a49&)](https://discord.gg/wFybafrdzp)
