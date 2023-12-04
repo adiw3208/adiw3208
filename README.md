@@ -6,20 +6,26 @@
 <h1 align="center">Tech Stack</h1>
 <br>
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038655564370030/icons8-nextjs-64.png?ex=6569c706&is=65575206&hm=f80c239bf38f26980265c13e8c0607bc94eb4b8ea3a99ed4f293b63fa2ac2f7a&"/>
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038701882048542/icons8-photoshop-64.png?ex=6569c711&is=65575211&hm=1e214a7af196aa6d095396050f3a20b7728535a1b596057ff2bfed32df08f5b3&"/>
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038712091005020/icons8-figma-64.png?ex=6569c714&is=65575214&hm=d56d7932e77bba2ac3968e229b6a9130895c009f165a037ce3601a2302ff18e3&"/>
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038740427706408/icons8-react-native-64.png?ex=6569c71a&is=6557521a&hm=5cb64794c19d05580765e54202201c9c8ff2d6b617756d7a6221ad3f47f96b58&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038752113041408/icons8-javascript-64.png?ex=6569c71d&is=6557521d&hm=34cc420ffa0c84647e70eea1422c7d61821437ae44ce4caa7a000e551167e248&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1181029424783708261/icons8-typescript-64.png?ex=657f925d&is=656d1d5d&hm=cd1431ee5dae2c52b9f02870a75c37f4a5f89622071c8ed5eb082e48542624cb&"/>
+  
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038771654316082/icons8-nodejs-64.png?ex=6569c722&is=65575222&hm=181f01b8ba717f6aca5120526c7560430474f11cb795bbc100907b5ed038edac&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038655564370030/icons8-nextjs-64.png?ex=6569c706&is=65575206&hm=f80c239bf38f26980265c13e8c0607bc94eb4b8ea3a99ed4f293b63fa2ac2f7a&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038740427706408/icons8-react-native-64.png?ex=6569c71a&is=6557521a&hm=5cb64794c19d05580765e54202201c9c8ff2d6b617756d7a6221ad3f47f96b58&"/>
+
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038863975133214/icons8-php-64.png?ex=6569c738&is=65575238&hm=7ae186f5b63015cedcbed1fbc4076f377da0a84ff4762d4a04d1360fb296fc92&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038872825122888/icons8-laravel-64.png?ex=6569c73a&is=6557523a&hm=fbc4b5c15c0b38eeb0fdda36cce3f94bbe3e8a3ff55e72d19c5840082861f597&"/>
+
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038796761419806/icons8-tailwind-css-64.png?ex=6569c728&is=65575228&hm=edf21d75686dd72a3c09d12fdd5ef1fd784e75e8b55853dd0178ad7d124c49d7&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038807863742555/icons8-bootstrap-64.png?ex=6569c72a&is=6557522a&hm=d21ed9df2b45b8ad5518e85461ff8a98bbdab62ee429d1793c49d9eae5ae0b4e&"/>
+  
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038701882048542/icons8-photoshop-64.png?ex=6569c711&is=65575211&hm=1e214a7af196aa6d095396050f3a20b7728535a1b596057ff2bfed32df08f5b3&"/>
+<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038712091005020/icons8-figma-64.png?ex=6569c714&is=65575214&hm=d56d7932e77bba2ac3968e229b6a9130895c009f165a037ce3601a2302ff18e3&"/>
+
+
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038817095389264/icons8-firebase-64.png?ex=6569c72d&is=6557522d&hm=26ced01dbb8d46eedb1ae9db2bfc0bdc9d8cead7dc808b835f5218fd66bf6d93&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038840055025756/icons8-postgresql-64.png?ex=6569c732&is=65575232&hm=29f30281bc3643cd5aaf00e045a3e1b8a560c2b5704bbb5c6a01b64c089c8fb0&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038850654019604/icons8-my-sql-64.png?ex=6569c735&is=65575235&hm=eaf44704e2d4734a75925e59e4280e08f919212340c03c563fcdcc8cc20ccb07&"/>
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038863975133214/icons8-php-64.png?ex=6569c738&is=65575238&hm=7ae186f5b63015cedcbed1fbc4076f377da0a84ff4762d4a04d1360fb296fc92&"/>
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038872825122888/icons8-laravel-64.png?ex=6569c73a&is=6557523a&hm=fbc4b5c15c0b38eeb0fdda36cce3f94bbe3e8a3ff55e72d19c5840082861f597&"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038885030535208/icons8-mongo-db-64.png?ex=6569c73d&is=6557523d&hm=77dfa15f0c1df27836cb9eef017d42e0e23e977e9f063441202ac6dba0c13ac4&"/>
 </div>
 <br><br>
