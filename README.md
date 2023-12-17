@@ -49,7 +49,7 @@
 <a  href="https://facebook.com/stunt3208"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014193712341052/facebook.png?ex=6569b03e&is=65573b3e&hm=b2b9c6fac4ae1210c6eb9235df59456a5b14cb3eed80590a00d77d1ff1685c68&"/></a>
 <a  href="https://instagram.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014851194662912/instagram.png?ex=6569b0db&is=65573bdb&hm=4e8a6d72d62eb9a8854b07ea1aced9e1213d5160feb8f150a7646f9c94289223&"/></a>
 <a  href="https://linkedin.com/in/adiwhydi"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015105499500574/linkedin.png?ex=6569b117&is=65573c17&hm=90999988da2540a84e79e2164c613169729618411a5c8c699f996a6a14ebf6e8&"/></a>
-<a  href="https://tiktok.com/@stnt3208"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015306578624552/tiktok.png?ex=6569b147&is=65573c47&hm=310b945a915cd89682777e07677b1e5716f20f51264fc23cb65e66e77b277a1a&"/></a>
+<a  href="https://tiktok.com/@adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015306578624552/tiktok.png?ex=6569b147&is=65573c47&hm=310b945a915cd89682777e07677b1e5716f20f51264fc23cb65e66e77b277a1a&"/></a>
 <a  href="https://twitter.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175025124169240677/twitter.png?ex=6569ba6c&is=6557456c&hm=3b8b86589faebdfbaf6603c6aafb95eb35b561089362322b7730fd4d8c929435&"/></a>
 
 </div>
