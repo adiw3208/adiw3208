@@ -6,7 +6,7 @@
 <h1 align="center">Tech Stack</h1>
 <br>
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038752113041408/icons8-javascript-64.png?ex=6569c71d&is=6557521d&hm=34cc420ffa0c84647e70eea1422c7d61821437ae44ce4caa7a000e551167e248&"/>
+<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038752113041408/icons8-javascript-64.png?ex=66fd321d&is=66fbe09d&hm=f523ef6bbf0111f7f3301c26aa176a5f4df9e0880f91311212442eb9bc50a346&=&format=webp&quality=lossless"/>
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1181029424783708261/icons8-typescript-64.png?ex=657f925d&is=656d1d5d&hm=cd1431ee5dae2c52b9f02870a75c37f4a5f89622071c8ed5eb082e48542624cb&"/>
   
 <img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175038771654316082/icons8-nodejs-64.png?ex=6569c722&is=65575222&hm=181f01b8ba717f6aca5120526c7560430474f11cb795bbc100907b5ed038edac&"/>
