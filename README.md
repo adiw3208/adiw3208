@@ -33,7 +33,7 @@
 <div align="center">
 <h1>Come Connect With Me</h1>
 <br>
-<a  href="https://discord.gg/wFybafrdzp"><img src="https://icons8.com/icon/2mIgusGquJFz/discord"/></a>
+<a  href="https://discord.gg/wFybafrdzp"><img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000"/></a>
 <a  href="https://facebook.com/stunt3208"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014193712341052/facebook.png?ex=6569b03e&is=65573b3e&hm=b2b9c6fac4ae1210c6eb9235df59456a5b14cb3eed80590a00d77d1ff1685c68&"/></a>
 <a  href="https://instagram.com/adiwhydi___"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175014851194662912/instagram.png?ex=6569b0db&is=65573bdb&hm=4e8a6d72d62eb9a8854b07ea1aced9e1213d5160feb8f150a7646f9c94289223&"/></a>
 <a  href="https://linkedin.com/in/adiwhydi"><img src="https://cdn.discordapp.com/attachments/1074669703307460648/1175015105499500574/linkedin.png?ex=6569b117&is=65573c17&hm=90999988da2540a84e79e2164c613169729618411a5c8c699f996a6a14ebf6e8&"/></a>
