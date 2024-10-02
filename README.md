@@ -33,10 +33,10 @@
 <div align="center">
 <h1>Come Connect With Me</h1>
 <br>
-<a  href="https://discord.com/invite/QNxtJEPqRyy"><img src="https://img.icons8.com/?size=100&id=6AKSNemJwFD9&format=png&color=000000"/></a>
+<a  href="https://discord.com/invite/QNxtJEPqRyy" target="_blank"><img src="https://img.icons8.com/?size=100&id=6AKSNemJwFD9&format=png&color=000000"/></a>
 <a  href="https://instagram.com/adiwhydi___"><img src="https://img.icons8.com/?size=100&id=aimNrfnvOM9T&format=png&color=000000"/></a>
 <a  href="https://linkedin.com/in/adiwhydi"><img src="https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000"/></a>
 <a  href="https://tiktok.com/@darkstunt___"><img src="https://img.icons8.com/?size=100&id=r9iTXSDl1xJ9&format=png&color=000000"/></a>
-<a  href="https://x.com/adiwhydi___"><img src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=ffffff"/></a>
+<a  href="https://x.com/adiwhydi___"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000"/></a>
 
 </div>
