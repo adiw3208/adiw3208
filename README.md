@@ -1,5 +1,5 @@
 <center>
-    # 💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Adi Wahyudi<br><br>Fullstack dev who vibes more with the frontend side ✨<br>I love turning random ideas into smooth, clean, and friendly interfaces 🎨💻<br><br>Always learning, building, breaking, fixing… then learning again 🔁😅<br>Let’s build cool things together 🚀🔥
 
 
@@ -20,4 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=adiw3208&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
