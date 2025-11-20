@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pixel Rain Neon Blue</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: #02030a;
+      font-family: monospace;
+      color: cyan;
+    }
+
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+<canvas id="rain"></canvas>
+
+<script>
+  const canvas = document.getElementById("rain");
+  const ctx = canvas.getContext("2d");
+
+  // Resize canvas to full screen
+  function resize() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  window.addEventListener("resize", resize);
+  resize();
+
+  // Characters for rain
+  const symbols = "01<>/\\{}[]#@*&!?";
+  const fontSize = 16;
+  const columns = Math.floor(window.innerWidth / fontSize);
+
+  // Drops Y positions
+  const drops = Array(columns).fill(1);
+
+  function draw() {
+    // Trail effect
+    ctx.fillStyle = "rgba(0, 10, 25, 0.1)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = "#00eaff";
+    ctx.font = fontSize + "px monospace";
+
+    drops.forEach((y, i) => {
+      const text = symbols[Math.floor(Math.random() * symbols.length)];
+      const x = i * fontSize;
+
+      ctx.fillText(text, x, y * fontSize);
+
+      // Random reset
+      if (y * fontSize > canvas.height && Math.random() > 0.98) {
+        drops[i] = 0;
+      }
+
+      drops[i]++;
+    });
+
+    requestAnimationFrame(draw);
+  }
+
+  draw();
+</script>
+
+</body>
+</html>
