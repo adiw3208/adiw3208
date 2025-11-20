@@ -1,42 +1,27 @@
-<h1 align="center" >Welcome To My GitHub</h1>
-<br>
-<p align="center">Greetings! I am ADI WAHYUDI, a FullStack Developer who is passionate about creating innovative and efficient solutions. I love turning ideas into reality through code, and I'm always eager to explore new technologies. When I'm not coding, you might find me exploring the latest tech trends, enjoying a good book, or seeking adventure in the great outdoors.</p>
-<br><br>
+# 💫 About Me:
+👋 Hi, I’m Adi Wahyudi<br><br>Fullstack dev who vibes more with the frontend side ✨<br>I love turning random ideas into smooth, clean, and friendly interfaces 🎨💻<br><br>Always learning, building, breaking, fixing… then learning again 🔁😅<br>Let’s build cool things together 🚀🔥
 
-<h1 align="center">Tech Stack</h1>
-<br>
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038752113041408/icons8-javascript-64.png?ex=66fd321d&is=66fbe09d&hm=f523ef6bbf0111f7f3301c26aa176a5f4df9e0880f91311212442eb9bc50a346&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1181029424783708261/icons8-typescript-64.png?ex=66fd3c9d&is=66fbeb1d&hm=4ccfedf2ff9369a32805c4ae71643b45ed10f96290b089af37514a9ab73c8dda&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038771654316082/icons8-nodejs-64.png?ex=66fd3222&is=66fbe0a2&hm=64d1024c8ab2e25975bb427997a310cf3dbcb08721ec47d8845d370465d69375&=&format=webp&quality=lossless"/>  
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038740427706408/icons8-react-native-64.png?ex=66fd321a&is=66fbe09a&hm=66a08ed879c518e4c8ee494146e8c3f5300d1923c99eb79246d7a2feb38246b9&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038655564370030/icons8-nextjs-64.png?ex=66fd3206&is=66fbe086&hm=b343a0775533a263d024d40e80a028cd03cb79c62c0cdd06f6f91357cc0ed0ac&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038796761419806/icons8-tailwind-css-64.png?ex=66fd3228&is=66fbe0a8&hm=d85d62a3fd5f159105882aa26bb2ffe8ea096dc76a5b0446723ab8f774a95e15&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038807863742555/icons8-bootstrap-64.png?ex=66fd322a&is=66fbe0aa&hm=598718312ab5f52f418edfdab70e6f7791dd4879ade8a942198518161f4e40d4&=&format=webp&quality=lossless"/>
-<img src="https://media.discordapp.net/attachments/1074669703307460648/1175038872825122888/icons8-laravel-64.png?ex=66fd323a&is=66fbe0ba&hm=3dfff3f07397c204341f93473f6003b680b98b50e5b43362c64022f3a79c48d9&=&format=webp&quality=lossless"/>
 
-</div>
-<br><br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/N9Zugqbzep) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiwhydi___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adiwhydi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@adiwhydi___) 
 
-<div  align="center">
-<h1>GitHub Status</h1>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiw3208&theme=midnight-purple&hide_border=true"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiw3208&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-<br>
-</div>
-<br><br>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adiw3208&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adiw3208&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiw3208&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-<h1>Come Connect With Me</h1>
-<br>
-<a  href="https://discord.gg/sekawancommunity" target="_blank"><img src="https://img.icons8.com/?size=100&id=6AKSNemJwFD9&format=png&color=000000"/></a>
-<a  href="https://instagram.com/adiwhydi___" target="_blank"><img src="https://img.icons8.com/?size=100&id=aimNrfnvOM9T&format=png&color=000000"/></a>
-<a  href="https://linkedin.com/in/adiwhydi" target="_blank"><img src="https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000"/></a>
-<a  href="https://tiktok.com/@darkstunt___" target="_blank"><img src="https://img.icons8.com/?size=100&id=r9iTXSDl1xJ9&format=png&color=000000"/></a>
-<a  href="https://x.com/adiwhydi___" target="_blank"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000"/></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adiw3208&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adiw3208&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adiw3208&icon=2&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
